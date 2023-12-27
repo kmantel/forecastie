@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:textColor="@android:color/white"
-        android:textSize="36sp"
+        android:textSize="90sp"
         tools:text="11:50" />
 
     <TextView
@@ -24,7 +24,7 @@
         android:layout_marginTop="0sp"
         android:layout_marginBottom="5sp"
         android:textColor="@android:color/white"
-        android:textSize="16sp"
+        android:textSize="24sp"
         android:layout_below="@+id/time"
         android:layout_centerHorizontal="true" />
 
